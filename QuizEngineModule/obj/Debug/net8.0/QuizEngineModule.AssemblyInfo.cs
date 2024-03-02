@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("cef96737-5761-4603-a1df-3b914b2f484a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizEngineModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5ad2c567123198af941003917a6f1a18046b537")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizEngineModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizEngineModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
